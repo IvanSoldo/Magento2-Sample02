@@ -5,6 +5,9 @@
 
     <preference for="Inchoo\Sample02\Model\Dummy" type="Inchoo\Sample02\Model\Dummy2"/>
 
+    <preference for="Inchoo\Sample02\Model\B" type="Inchoo\Sample02\Model\C"/>
+
+
 
 
     <preference for="Inchoo\Sample02\Model\DummyInterface" type="Inchoo\Sample02\Model\Dummy"/>
